@@ -1,6 +1,6 @@
 ## Analysis of Netflix Dataset
 
-The goal of this project is to statistically analyze Netflix dataset and take a closer look at the movies and TV shows which are listed on Netflix platform from different attributes point of view. For the seek of having fun, this analysis will recommend the top three shows based on genres.
+The goal of this project is to statistically analyze Netflix dataset and take a closer look at movies and TV shows that are listed on Netflix platform from different attributes point of view. For the seek of having fun, this analysis will recommend the top three shows based on genres.
 
 ![10commonGenresNetflix](https://user-images.githubusercontent.com/32347958/142256396-3b0e488b-9973-4a62-91b6-f0f912f3a3fb.png)
 
