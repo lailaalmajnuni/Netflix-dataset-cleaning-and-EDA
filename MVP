@@ -3,7 +3,7 @@
 The goal of this project is to statistically analyze Netflix dataset and take a closer look at the movies and TV shows which are listed on Netflix platform from different attributes point of veiw. For the seek of having fun, this analysis will recommend the top three shows based on genres.
 
 
-![](mvp_figure.png)
+10commonGenresNetflix.png
 
 I started approching the goal with a count plot of listed shows in each genre to visulize the big piture and only focusing on the 10 most common genres.
 
