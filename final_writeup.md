@@ -30,3 +30,4 @@ The dataset was obtained from https://www.kaggle.com/shivamb/netflix-shows?selec
 
 ![image](https://user-images.githubusercontent.com/32347958/142750009-69fa57c1-1446-4c89-be1c-4592416b131b.png)
 
+![image](https://user-images.githubusercontent.com/32347958/142750047-1e398ff1-178e-498d-968d-61b8ad76074d.png)
