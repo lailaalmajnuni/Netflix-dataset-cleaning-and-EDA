@@ -1,6 +1,6 @@
 
 ## Abstract
-The goal of this project was to    
+The goal of this project was to statistically analyze Netflix dataset and take a closer look at the content listed on the platform from different attributes point of view. The EDA revealed useful information on the distribution and diversity of netflix content for new subscribers to take a quick look at. Finally, recommended the top three shows based on genres at the end.
 
 ## Design
 The project aimed to suggust top rated movies/TV shows listed on Netflix platform and get statistaical insights on the diversity of listed shows for new subscribers from different attruibute point of view based on global Netflix dataset collected from 1925 to 2021.
