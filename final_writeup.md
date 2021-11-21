@@ -28,25 +28,5 @@ The dataset was obtained from https://www.kaggle.com/shivamb/netflix-shows?selec
 - Most common genres on Netflix are Dramas, International movies, Comedies.
 - List of Recommendation Based on statistical analysis:
 
-Action & Adventure 
-Comedies
-Dramas
-Romantic Movies
-Thrillers
-Silencer
-Spider-Man: Into the Spider-Verse
-Rebecca
-Rebecca
-The Blue Elephant 2
-Avengers: Infinity War
-Klaus
-Heaven Without People
-Naked
-Rebecca
-Spider-Man: Into the Spider-Verse
-Opening Night
-Marriage Story
-Love You to the Stars and Back
-Veronica
 ![image](https://user-images.githubusercontent.com/32347958/142750009-69fa57c1-1446-4c89-be1c-4592416b131b.png)
 
