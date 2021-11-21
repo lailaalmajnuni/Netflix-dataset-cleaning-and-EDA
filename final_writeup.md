@@ -26,6 +26,8 @@ The dataset was obtained from https://www.kaggle.com/shivamb/netflix-shows?selec
 - 90% of the listed contents are movies.
 - January, November, and December are the months when netflix add more content. (best months to subscribe)
 - Most common genres on Netflix are Dramas, International movies, Comedies.
+- List of Recommendation Based on statistical analysis:
+
 Action & Adventure 
 Comedies
 Dramas
@@ -46,4 +48,5 @@ Opening Night
 Marriage Story
 Love You to the Stars and Back
 Veronica
-![image](https://user-images.githubusercontent.com/32347958/142749976-74715630-e5ac-4774-8566-45d0be54f51b.png)
+![image](https://user-images.githubusercontent.com/32347958/142750009-69fa57c1-1446-4c89-be1c-4592416b131b.png)
+
